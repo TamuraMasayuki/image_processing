@@ -3,3 +3,6 @@ images
 *.png
 *.jpeg
 *.jpg
+.ipynb_checkpoints
+.vscode
+.idea
